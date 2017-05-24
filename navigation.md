@@ -2,8 +2,6 @@
 
 [首页](index.md)
 
-[资讯](blog.md)
-
 [语音识别](gimmicks.md)
 [图像识别](gimmicks.md)
 [机器人](examples.md)
