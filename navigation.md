@@ -1,17 +1,17 @@
 # AITech.studio
 
-[About](index.md)
+[首页](index.md)
 
-[语音识别]()
+[资讯](blog.md)
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
-  - - - -
-  * # Advanced
-  * [Customizing](customizing.md)
+[语音识别](gimmicks.md)
+[图像识别](gimmicks.md)
+[机器人](examples.md)
+[自然语言处理](download.md)
 
-[Gimmicks](gimmicks.md)
+[开源项目](contribute/index.md)
+
+[论坛](forum.md)
 
 [Tutorials]()
 
@@ -21,12 +21,6 @@
   * [Hosting with Google Drive](tutorials/drive.md)
   * [Use with Dropbox](tutorials/dropbox.md)
   * [Set up MDwiki on IIS](tutorials/iis/iis.md)
-
-[机器人](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
 
 
 [gimmick:theme (inverse: false)](spacelab)
