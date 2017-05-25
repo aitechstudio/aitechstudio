@@ -1,3 +1,12 @@
+
+body {
+	margin: 0;
+}
+a {
+	color: #c05b4d;
+	text-decoration: none;
+}
+
 .nav-main {
   position: fixed;
   top: 0;
@@ -35,5 +44,6 @@
 }
 .nav-main .nav-site li>a {
 	display: inlineb-lock;
+	color: #dddddd;
 	padding: 0 10px;
 }
