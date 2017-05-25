@@ -7,6 +7,11 @@ a {
 	text-decoration: none;
 }
 
+.container {
+	padding-top: 50px;
+	width: 100%;
+}
+
 .nav-main {
   position: fixed;
   top: 0;
@@ -46,4 +51,17 @@ a {
 	display: inlineb-lock;
 	color: #dddddd;
 	padding: 0 10px;
+}
+.hero .text {
+	font-size: 64px;
+	text-align: center;
+}
+.hero .minitext {
+	font-size: 16px;
+	text-align: center;
+}
+.site-search {
+	display: flex;
+	margin-top: 60px;
+	text-align: center;
 }
