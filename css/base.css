@@ -13,3 +13,27 @@
   padding-top: 50px;
   background-color: #2d2d2d;
 }
+.wrap {
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.nav-main .nav-home {
+	display: inline-block;
+	color: #00d8ff;
+	height: 50px;
+	font-size: 24px;
+	line-height: 50px;
+}
+.nav-lists {
+	display: inline-block;
+}
+.nav-main li {
+	display: inline;
+}
+.nav-main .nav-site li>a {
+	display: inlineb-lock;
+	padding: 0 10px;
+}
